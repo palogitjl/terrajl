@@ -21,7 +21,7 @@ EOF
     git_file             = "terraform/aws/lambda.tf"
     git_last_modified_at = "2020-06-16 14:46:24"
     git_last_modified_by = "nimrodkor@gmail.com"
-    git_modifiers        = "nimrodkorJLLL"
+    git_modifiers        = "nimrodkorJLLLLLLL"
     git_org              = "try-bridgecrew"
     git_repo             = "terragoat"
     yor_trace            = "25847052-213e-4654-9000-c57924a6ad04"
