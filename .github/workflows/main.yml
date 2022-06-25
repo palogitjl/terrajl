@@ -19,5 +19,3 @@ jobs:
       with:
         api-key: ${{ secrets.BC_API_KEY }}
         soft_fail: false
-        log_level: DEBUG
-    
